@@ -1,7 +1,6 @@
 # Hi 👋 I'm Anmol
 
-### BCA Graduate | Aspiring AI & ML Engineer | Python Developer
-**Building intelligent solutions through Data Science and Automation**
+### BCA Graduate | Aspiring AI & ML Engineer | Python Developer| SQL | Building Toward Agentic AI & Autonomous Systems
 
 ---
 
@@ -49,7 +48,4 @@ I am a motivated BCA Graduate with a strong foundation in **Python development, 
 
 ---
 
-## 📊 GitHub Activity:
 
-![Anmol's Stats](https://github-readme-stats.vercel.app/api?username=Anmolpanwar-dotcom&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolpanwar-dotcom&layout=compact&theme=tokyonight)
