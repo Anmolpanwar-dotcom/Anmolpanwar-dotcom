@@ -1,6 +1,6 @@
 # Hi 👋 I'm Anmol
 
-### BCA Graduate | Aspiring AI & ML Engineer | Python Developer| SQL | Building Toward Agentic AI & Autonomous Systems
+### BCA Graduate | Aspiring AI & ML Engineer | Python Developer | Full-Stack ML Deployment | Building Toward Agentic AI & Autonomous Systems
 
 ---
 
@@ -8,14 +8,14 @@
 
 --> **The tech personality in me is deeply rooted.**
 
-I am a motivated BCA Graduate with a strong foundation in **Python development, SQL, and EDA**. I specialise in building both **Supervised and Unsupervised Learning architectures**. Currently, I am an **AI & Machine Learning Trainee** at PrernaGati and Technology, Mohali, where I focus on identifying patterns and trends through statistical plots.
+I am a motivated BCA Graduate and **AI & Machine Learning Trainee** at PrernaGati and Technology, Mohali. I specialize in building end-to-end **Machine Learning pipelines**, from Exploratory Data Analysis (EDA) to production-ready deployment. My focus is on turning raw data into scalable autonomous systems.
 
 --> **What I can do**
 
-* 🚀 **Predictive Modeling:** Build and deploy ML models (Regression, KNN, Naive Bayes).
-* 📊 **Data Insights:** Perform end-to-end Exploratory Data Analysis (EDA) & Correlation Analysis.
-* ⚙️ **Optimization:** Engineer high-speed performance analyzers using **NumPy Vectorization**.
-* 🛠 **Automation:** Develop scalable Python scripts using **Object-Oriented Programming (OOP)**.
+* 🚀 **Full-Stack ML Deployment:** Build models and deploy them using **Flask APIs** and **Streamlit**.
+* 🧠 **NLP & Classification:** Implement advanced text processing and sentiment analysis.
+* 📊 **Data Insights:** Perform statistical modeling and identifies hidden patterns via EDA.
+* ⚙️ **Modular Code:** Write clean, reusable Python scripts using **OOP** principles.
 
 ---
 
@@ -23,18 +23,25 @@ I am a motivated BCA Graduate with a strong foundation in **Python development, 
 
 | Category | Skills & Frameworks |
 | :--- | :--- |
-| **Languages** | Python (OOP, Lambda), Basic SQL |
-| **Machine Learning** | Supervised (Regression, KNN, Decision Trees), Unsupervised (K-Means Clustering) |
-| **Data Analysis** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
-| **Tools** | VS Code, Git, GitHub, Google Colab |
+| **Languages** | Python (OOP, Lambda), SQL (Analytics & BI) |
+| **Machine Learning** | Supervised (Naive Bayes, Logistic Regression, Decision Trees), Unsupervised (K-Means) |
+| **Deployment** | **Flask (REST APIs)**, **Streamlit Cloud**, **Render**, Gunicorn, **Pickle** |
+| **Libraries** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Requests |
+| **Tools** | VS Code, Git, GitHub, Google Colab, Lovable |
 
 ---
 
-## 🚀 Key Projects:
+## 🚀 Featured Projects:
 
-* 💡 **Bulb Price Prediction Engine:** Achieved an $R^{2}$ Score of 0.92 using Polynomial Regression.
-* 🎓 **Study Hours Success Predictor:** Classification model with 91% Accuracy.
-* 📈 **Student Marks Analytics Dashboard:** High-speed processing using NumPy Vectorization.
+### 🛡️ [AI Spam Detection System](https://github.com/Anmolpanwar-dotcom/SPAM-DETECTION-MODEL-) | [Live Demo](https://yz77ebsnrzs7kbcutqbfhh.streamlit.app/)
+* Developed a real-time NLP classifier using **Multinomial Naive Bayes** and **TF-IDF**.
+* Deployed a **Flask API** on Render and an interactive UI on **Streamlit**.
+* Handled model persistence using **Pickle** for seamless production integration.
+
+### 🚢 [Titanic Survival Predictor](https://github.com/Anmolpanwar-dotcom/Titanic-Survival-Prediction) | [Live Demo](https://titanic-survival-anmol.streamlit.app)
+* Engineered a binary classification model with **Logistic Regression** to predict passenger survival.
+* Performed extensive feature engineering and data cleaning using Pandas.
+
 
 ---
 
@@ -46,6 +53,8 @@ I am a motivated BCA Graduate with a strong foundation in **Python development, 
   <a href="mailto:gujjranmol257@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="35" width="45" /></a>
 </p>
 
+---
+*“Building the bridge between raw data and intelligent decisions.”*
 ---
 
 
