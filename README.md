@@ -1,47 +1,113 @@
-# Hi 👋 I'm Anmol
+# Hi 👋 I'm Anmol  
 
-### BCA Graduate | Aspiring AI & ML Engineer | Python Developer | Full-Stack ML Deployment | Building Toward Agentic AI & Autonomous Systems
-
----
-
-## 💫 About Me:
-
---> **The tech personality in me is deeply rooted.**
-
-I am a motivated BCA Graduate and **AI & Machine Learning Trainee** at PrernaGati and Technology, Mohali. I specialize in building end-to-end **Machine Learning pipelines**, from Exploratory Data Analysis (EDA) to production-ready deployment. My focus is on turning raw data into scalable autonomous systems.
-
---> **What I can do**
-
-* 🚀 **Full-Stack ML Deployment:** Build models and deploy them using **Flask APIs** and **Streamlit**.
-* 🧠 **NLP & Classification:** Implement advanced text processing and sentiment analysis.
-* 📊 **Data Insights:** Perform statistical modeling and identifies hidden patterns via EDA.
-* ⚙️ **Modular Code:** Write clean, reusable Python scripts using **OOP** principles.
+🚀 BCA Graduate | AI/ML Engineer | Python Developer  
+🧠 Focused on LLMs, RAG Systems & AI Applications  
+⚙️ Building toward Agentic AI & Autonomous Systems  
 
 ---
 
-## 🛠 Technical Toolbox:
+## 💫 About Me  
 
-| Category | Skills & Frameworks |
-| :--- | :--- |
-| **Languages** | Python (OOP, Lambda), SQL (Analytics & BI) |
-| **Machine Learning** | Supervised (Naive Bayes, Logistic Regression, Decision Trees), Unsupervised (K-Means) |
-| **Deployment** | **Flask (REST APIs)**, **Streamlit Cloud**, **Render**, Gunicorn, **Pickle** |
-| **Libraries** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Requests |
-| **Tools** | VS Code, Git, GitHub, Google Colab, Lovable |
+I am a BCA graduate and AI/ML Engineer with hands-on experience in building **end-to-end Machine Learning and Deep Learning systems**, from data preprocessing to production deployment.  
+
+My core focus is on **LLM-powered applications, Retrieval-Augmented Generation (RAG), and intelligent systems** that solve real-world problems.  
+
+I don’t just train models — I build **complete AI products**.  
 
 ---
 
-## 🚀 Featured Projects:
+## 🚀 What I Bring  
 
-### 🛡️ [AI Spam Detection System](https://github.com/Anmolpanwar-dotcom/SPAM-DETECTION-MODEL-) | [Live Demo](https://yz77ebsnrzs7kbcutqbfhh.streamlit.app/)
-* Developed a real-time NLP classifier using **Multinomial Naive Bayes** and **TF-IDF**.
-* Deployed a **Flask API** on Render and an interactive UI on **Streamlit**.
-* Handled model persistence using **Pickle** for seamless production integration.
+🔹 **LLM & RAG Systems**  
+- Built production-ready chatbot using LangChain, FAISS & Hugging Face  
+- Experience with embeddings, vector search, and document-based QA  
 
-### 🚢 [Titanic Survival Predictor](https://github.com/Anmolpanwar-dotcom/Titanic-Survival-Prediction) | [Live Demo](https://titanic-survival-anmol.streamlit.app)
-* Engineered a binary classification model with **Logistic Regression** to predict passenger survival.
-* Performed extensive feature engineering and data cleaning using Pandas.
+🔹 **Machine Learning & NLP**  
+- Built high-performance NLP pipelines (Spam Detection with 96%+ F1-score)  
+- Strong understanding of supervised learning algorithms  
 
+🔹 **Deep Learning**  
+- Designed CNN architectures for image classification  
+- Experience with training, tuning, and overfitting control  
+
+🔹 **Full-Stack AI Deployment**  
+- Deployed ML apps using Streamlit & Render  
+- Built APIs and real-time inference systems  
+
+🔹 **Clean Engineering Practices**  
+- Strong in Python (OOP, modular code)  
+- Focus on scalable and reusable ML pipelines  
+
+---
+
+## 🛠 Tech Stack  
+
+### 👨‍💻 Languages  
+- Python (OOP, Decorators, Exception Handling)  
+- SQL (Analytics, Queries)  
+
+### 🤖 Machine Learning  
+- Regression, Decision Trees, Random Forest, SVM  
+- Naive Bayes, KNN, K-Means, PCA  
+
+### 🧠 Deep Learning  
+- CNN, ANN  
+- TensorFlow, Keras  
+
+### 🔗 AI / LLM Stack  
+- LangChain  
+- FAISS (Vector DB)  
+- Hugging Face Inference API  
+- Prompt Engineering  
+
+### 📊 Data & Processing  
+- Pandas, NumPy  
+- EDA, Feature Engineering  
+- Data Cleaning & Preprocessing  
+
+### 🚀 Deployment & Tools  
+- Streamlit, Render  
+- GitHub, VS Code  
+- API Integration  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🤖 NovaDesk AI — RAG Chatbot  
+- Built a **multi-turn conversational chatbot** using LangChain + Hugging Face  
+- Implemented **PDF-based retrieval system** using PyPDFLoader  
+- Used **FAISS for vector similarity search**  
+- Deployed with real-time response streaming  
+
+---
+
+### 🛡️ AI Spam Detection System  
+- Built NLP pipeline using **TF-IDF + Naive Bayes**  
+- Achieved **96.5% F1-score & 98% precision**  
+- Reduced false positives significantly  
+- Deployed interactive app with fast inference  
+
+---
+
+### 🖼️ Image Classification (CNN)  
+- Designed CNN architecture for image classification  
+- Built data cleaning pipeline for reliability  
+- Used training/validation curves to handle overfitting  
+
+---
+
+## 📈 Currently Exploring  
+
+- LangGraph (Agent workflows)  
+- Advanced RAG architectures  
+- LLM fine-tuning  
+- Autonomous AI systems  
+
+---
+
+---
+ 
 
 ---
 
